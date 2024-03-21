@@ -1,0 +1,15 @@
+
+Window :
+
+    1) Window is a top-level object hierarchy .
+    2) It contains the contenct of a web page .
+    3) Window is loaded before the document .
+    4) document.title will return the title of the document .
+
+
+Document :
+
+    1) Document is a object inside window .
+    2) It contains the object of the window .
+    3) After the window gets loaded then there’s a document (HTML, PHP, or another document) loaded inside that window
+    4) window.document.title will return the title of the document.
